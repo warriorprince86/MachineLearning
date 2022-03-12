@@ -28,3 +28,8 @@ http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsCla
 Notes:
   - Make your code modular, the second part of the assignmet you will have to repeat. 
   - Include documentation for your code 
+
+- Conclusions (explain your choices)
+
+
+Q2. (Optional) Write a function that can shift an MNIST image in any direction (left, right, up, or down) by one pixel. Then, for each image in the training set, create four shifted copies (one per direction) and add them to the training set. Finally, train your best model on this expanded training set and measure its accuracy on the test set. You should observe that your model performs even better now! This technique of artificially growing the training set is called data augmentation or training set expansion. 
