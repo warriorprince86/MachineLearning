@@ -1,4 +1,9 @@
 # Classification of Tweets and modeling of Stock/Cryptocurrency Price
+
+# References
+https://matheo.uliege.be/bitstream/2268.2/1323/4/Erratum.pdf
+
+
 ## What is the data about?
 Text twitter from Elon Musk account, ~500 tweets from 01/01/2022 to Present
 We will collect the end of day stock price for final regression during the same time.
