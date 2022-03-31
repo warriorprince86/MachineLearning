@@ -1,0 +1,12 @@
+#
+env/
+.vscode/
+*.DS_Store
+
+#
+project/src/NLP*
+
+#
+modules/
+assignments/A1/
+assignments/A2/
